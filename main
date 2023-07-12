@@ -1,0 +1,14 @@
+# Exclude build files
+node_modules/*
+dist/
+
+# Exclude files and folders that change frequently in non-code files
+package-lock.json
+package.json
+
+# Exclude files and folders that aren't part of your source code
+browserslist
+package.json
+css-files/
+html-files/
+js-files/
