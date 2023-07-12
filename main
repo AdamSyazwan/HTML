@@ -1,14 +1,204 @@
-# Exclude build files
-node_modules/*
-dist/
+<!DOCTYPE>
 
-# Exclude files and folders that change frequently in non-code files
-package-lock.json
-package.json
+<html>
 
-# Exclude files and folders that aren't part of your source code
-browserslist
-package.json
-css-files/
-html-files/
-js-files/
+<head>
+  <title>Project Internet Programming</title>
+  <link rel="stylesheet" type="text/css" href="CSSPROJECT.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+  
+<header>
+  <h1>RYAN GOSLING</h1>
+</header>
+
+<div class="image-with-text">
+  <img src="Ryan-Gosling.jpg" alt="RyanGosling">
+  <div class="text-container">
+    <h2>About Ryan Gosling</h2>
+	<p>Ryan Thomas Gosling (born November 12, 1980) is a Canadian actor. Prominent in both independent film and major studio 
+    features of varying genres, his films have accrued a worldwide box office gross of over 1.9 billion USD. He has received 
+    various accolades, including a Golden Globe Award, and nominations for two Academy Awards and a BAFTA Award.</p>
+
+  <p>Born and raised in Canada, he rose to prominence at age 13 as a child actor on Disney Channel's The Mickey Mouse Club (1993–1995), 
+    and went on to appear in other family entertainment programs, including Are You Afraid of the Dark? (1995) and Goosebumps (1996). 
+    His first film role was as a Jewish neo-Nazi in The Believer (2001), and he gained stardom for starring in the 2004 romantic drama 
+    The Notebook.</p>
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="image-item portrait">
+    <img src="Ryan-4.jpg" alt="Portrait Image">
+  </div>
+  <div class="image-item">
+    <img src="Ryan-2.jpg" alt="Landscape Image 1">
+  </div>
+  <div class="image-item">
+    <img src="Ryan-3.jpg" alt="Landscape Image 2">
+  </div>
+</div>
+
+<div class="section2">
+  <h2>Who is Ryan Gosling</h2>
+
+  <p>Ryan Thomas Gosling was born on November 12, 1980, at St. Joseph's Hospital in London, Ontario, the son of Thomas Ray Gosling, 
+     a traveling salesman for a paper mill, and Donna, a secretary. Both of his parents are of part French Canadian descent, 
+     along with some German, English, Scottish, and Irish. He and his family were members of the Church of Jesus Christ of Latter-day
+     Saints, and Gosling has said that the religion influenced every aspect of their lives. Because of his father's work, they 
+     <em>"moved around a lot"</em> and Gosling lived in both Cornwall, Ontario and Burlington, Ontario. His parents divorced when he was 
+     13, and he and his older sister Mandi lived with their mother, an experience Gosling has credited with programming him 
+     <em>"to think like a girl"</em>.</p>
+
+    <p>Gosling was educated at Gladstone Public School, Cornwall Collegiate and Vocational School and Lester B. Pearson High School.
+       As a child, he watched Dick Tracy and was inspired to become an actor. He <em>"hated"</em> being a child, was bullied in elementary school,
+       and had no friends until he was "14 or 15". In grade one, having been heavily influenced by the action film First Blood, he took 
+       steak knives to school and threw them at other children during recess. This incident led to a suspension. He was unable to read, and
+       was evaluated for attention deficit hyperactivity disorder (ADHD), but was not diagnosed with it and, contrary to false reports, 
+       never took medication. His mother left her job and home-schooled him for a year. He has said homeschooling gave him <em>"a sense of 
+        autonomy that I've never really lost"</em>. Gosling performed in front of audiences from an early age, encouraged by his sister being 
+       a performer. He and his sister sang together at weddings; he performed with Elvis Perry, his uncle's Elvis Presley tribute act,
+        and was involved with a local ballet company. Performing boosted his self-confidence as it was the only thing for which he 
+       received praise. He developed an idiosyncratic accent because, as a child, he thought having a Canadian accent did not sound 
+       "tough". He began to model his accent on that of Marlon Brando. He dropped out of high school at age seventeen to focus on his 
+       acting career.</p>
+</div>	
+
+<div class="TIMELINE"></div>
+<table>
+
+  <caption class="table-title">TIMELINE</caption>
+  
+      <tr>
+        <td>1993–1999: Child actor</td>
+        <td><p>In 1993, twelve-year-old Gosling attended an open audition in Montreal for a revival of the Disney Channel's 
+          The Mickey Mouse Club. He was given a two-year contract as a mouseketeer and moved to Orlando, Florida.
+           He appeared on-screen infrequently because other children were considered more talented. Nonetheless, 
+           he has described the job as the greatest two years of his life. Fellow cast members included Britney Spears, 
+           Christina Aguilera, and Justin Timberlake. Gosling has credited the experience with instilling in them "<em>this great sense of
+            focus.</em>" He became particularly close friends with Timberlake and they lived together for six months during the second 
+            year of the show. Timberlake's mother became Gosling's legal guardian after his mother returned to Canada for work reasons.
+             Gosling has said that even though he and Timberlake talk infrequently, they are still supportive of each other.</p>
+      </td>
+      </tr>
+      <tr>
+          <td>2000–2003: Move to independent film</td>
+          <td><p>In 2002, Gosling co-starred in the psychological thriller Murder by Numbers with Sandra Bullock and Michael Pitt, where 
+            Gosling and Pitt portrayed a pair of high school seniors who believe they can commit the perfect murder. Bullock played the 
+            detective tasked with investigating the crime. Lisa Schwarzbaum of Entertainment Weekly described him as "<em>a phenomenal talent
+              even in junk like this</em>" while Todd McCarthy felt that the "strong" and "charismatic" young actors were "<em>let down by the 
+                screenplay</em>". The film was a minor commercial success, grossing $56 million worldwide from a production budget of $50 
+            million. His second screen appearance of 2002 was in The Slaughter Rule with David Morse which explores the relationship 
+            between a high school football player and his troubled coach in rural Montana. Gosling has said that the opportunity to work
+             with Morse made him "a better actor". Stephen Holden of The New York Times described Gosling as "major star material" 
+             with a "<em>rawness and an intensity that recall the young Matt Dillon</em>" while Manohla Dargis of the Los Angeles Times was 
+             won over by his "raw talent". The film was released in just three US theatres and grossed $13,411.</p>
+
+            <p>In 2003, Gosling starred in The United States of Leland as a teenager imprisoned for the murder of a disabled boy. 
+              He was drawn to the role because it was unusual to find a character that was "<em>emotionally disconnected for the whole 
+              film.</em>" Critic Roger Ebert felt that the "<em>gifted actor does everything that can be done with Leland, but the character comes 
+              from a writer's conceits, not from life.</em>" A. O. Scott of The New York Times noted that he "<em>struggles to rescue Leland 
+              from the clutches of cliché</em>" while David Rooney of Variety felt that his "<em>one-note, blankly disturbed act has none of 
+              the magnetic edge of his breakthrough work in The Believer</em>". The film grossed $343,847 in the United States and was not
+              released overseas.</p></td>
+      </tr>
+      <tr>
+          <td>2010–2012: Widespread recognition</td>
+          <td><p>Gosling starred in five films in 2010 and 2011. "<em>I've never had more energy,</em>" Gosling said. "<em>I'm more excited to make 
+            films than I used to be. I used to kind of dread it. It was so emotional and taxing. But I've found a way to have fun while 
+            doing it. And I think that translates into the films.</em>" He has also spoken of feeling depressed when not working. 
+            In 2010, he starred opposite Michelle Williams in Derek Cianfrance's directorial debut, the marital drama Blue Valentine. 
+            The low-budget film was mainly improvised and Gosling has said "you had to remind yourself you were making a film". 
+            Mick LaSalle of the San Francisco Chronicle felt he "<em>brings a preternatural understanding of people to his performance</em>"
+            while A.O. Scott of The New York Times found him to be "<em>convincing as the run-down, desperate, older Dean, and maybe a bit 
+            less so as the younger version</em>". Owen Gleiberman of Entertainment Weekly wrote that he "<em>plays Dean as a snarky 
+            working-class hipster, but when his anger is unleashed, the performance turns powerful.</em>" However, Wesley Morris 
+            of The Boston Globe felt the performance was an example of "hipsterism misdirected". He was nominated for a Golden 
+            Globe Award for Best Actor – Motion Picture Drama. The film was a box office success, grossing over $12 million 
+            worldwide from a production budget of $1 million.[</p></td>
+        </tr>
+        <tr>
+          <td>2013–2014: Mixed reception and directorial debut</td>
+          <td>
+            <p>In early 2013, Gosling announced that he was taking a break from acting, stating, "<em>I've lost perspective on what I'm doing. 
+              I think it's good for me to take a break and reassess why I'm doing it and how I'm doing it. And I think this is probably a 
+              good way to learn about that.</em>" Gosling's directorial debut Lost River competed in the Un Certain Regard section at the 2014 
+              Cannes Film Festival. The "fantasy noir", written by Gosling, stars Christina Hendricks, Ben Mendelsohn, and Matt Smith. 
+              The film received largely unfavorable reviews. Peter Bradshaw of The Guardian found it "insufferably conceited" and remarked 
+              that Gosling had lost "<em>any sense of proportion or humility.</em>" Robbie Collin of The Daily Telegraph described Lost River as 
+              "<em>any sense of proportion or humility.</em>", while Variety's Justin Chang dismissed the "derivative" film as a "train-wreck."</p>
+          </td>
+        </tr>
+  
+      </tr>
+        <tr>
+          <td>2015–present: La La Land and return to film</td>
+          <td><p>In 2016, Gosling starred in the black comedy The Nice Guys, opposite Russell Crowe, and in Damien Chazelle's musical 
+            La La Land, for which he won the Golden Globe Award for Best Actor – Motion Picture Musical or Comedy and received his 
+            second Academy Award for Best Actor nomination. Robbie Collin praised his chemistry with co-star Emma Stone, writing: 
+            "<em>Both stars are so attuned to each other's pace and flow that their repartee just seems to tumble out, perfectly formed.</em>"
+             It emerged as one of his most commercially successful films, with earnings of over $440 million against its $30 million budget.</p>
+            
+            <p>Also in 2017, he starred in Blade Runner 2049, a sequel to the 1982 science fiction film Blade Runner, directed by Denis 
+              Villeneuve and co-starring Harrison Ford, who reprised his role as Rick Deckard. Gosling's role was as Officer K, a 
+              "blade runner" working for the LAPD whose job it is to kill rogue bioengineered humans known as replicants. A. O. Scott 
+              found him to be perfectly cast, adding that his "<em>ability to elicit sympathy while seeming too distracted to want it – his 
+                knack for making boredom look like passion and vice versa – makes him a perfect warm-blooded robot for our time</em>".
+               Despite being Gosling's largest box office opening, grossing $31.5 million domestically, the film generally underperformed
+                at the box office</p>
+            </td>
+        </tr>
+
+        </table>
+      </div>
+ 
+  <div class="newborder">
+    <div class="newcat">
+      <p>TOP 3 RYAN GOSLING MOVIES</p>
+    </div>
+    <div class="newcontext">
+      <h1>1# Drive</h1>
+      <img src="Drive1.jpg" alt="Drive">
+      <p>"Drive" is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. 
+        Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, 
+        Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly 
+        wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.</p>
+        <p>Genre: Crime, Drama, Action</p>
+    </div>
+    <div class="newcontext2">
+      <h1>2# La La Land</h1>
+      <img src="Lalaland.png" alt="Lalaland">
+      <p>Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success 
+        mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so
+         hard to maintain in each other threaten to rip them apart.</p>
+      <p>Genre: Musical, Romance, Comedy, Drama</p>
+    </div>
+
+    <div class="newcontext3">
+      <h1>3# Blade Runner 2049</h1>
+      <img src="Bladerunner.jpg" alt="Blade Runner 2049">
+      <p>Officer K (Ryan Gosling), a new blade runner for the Los Angeles Police Department, unearths a long-buried secret that has the 
+        potential to plunge what's left of society into chaos. His discovery leads him on a quest to find Rick Deckard (Harrison Ford), 
+        a former blade runner who's been missing for 30 years.</p>
+      <p>Genre: Sci-fi, Mystery & thriller</p>
+    </div>
+  </div>
+      
+  <a href="#" class="back-to-top">
+    <span class="material-icons">
+      keyboard_arrow_up
+    </span>
+  </a>
+
+
+
+</body>
+
+
+</html>
